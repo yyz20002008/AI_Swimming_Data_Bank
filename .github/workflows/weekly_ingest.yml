@@ -1,0 +1,64 @@
+name: Weekly Swimming Data Ingestion
+
+on:
+  schedule:
+    # Run every Monday at 02:00 AM UTC (Sunday 10:00 PM EST)
+    - cron: '0 2 * * 1'
+  workflow_dispatch:
+    # Allow manual triggering from the GitHub Actions UI
+    inputs:
+      season:
+        description: 'Season to ingest (e.g. 2025-2026)'
+        required: false
+        default: ''
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          # Fetch all history so we can commit back if needed
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Pipeline
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+          PYTHONPATH: "."
+        run: |
+          # If season is provided manually, use it; otherwise run default (latest season)
+          if [ -n "${{ github.event.inputs.season }}" ]; then
+            python run_pipeline.py --season "${{ github.event.inputs.season }}"
+          else
+            python run_pipeline.py
+          fi
+
+      - name: Commit and Push Changes (GitOps)
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # Add new manifest files
+          git add data/manifests/
+          
+          # Only commit if there are changes
+          if ! git diff --cached --quiet; then
+            git commit -m "Auto-update: Ingested new meet data [skip ci]"
+            git push
+          else
+            echo "No data changes to commit."
+          fi

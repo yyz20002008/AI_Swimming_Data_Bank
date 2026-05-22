@@ -1,0 +1,27 @@
+# Environment variables
+.env
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Local logs
+logs/
+
+# Raw meet data (to save repository space - downloaded on demand)
+data/raw/
+
+# Parsed meet JSON data (too large for GitHub)
+data/parsed/
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp

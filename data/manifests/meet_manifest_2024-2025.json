@@ -1,0 +1,3785 @@
+[
+  {
+    "name": "End Google Tag Manager (noscript)",
+    "date_range": "Unknown",
+    "season": "2024-2025",
+    "result_pdf_url": null,
+    "result_zip_url": null,
+    "backup_zip_url": null,
+    "event_file_url": null,
+    "meet_notice_pdf_url": null,
+    "all_files": [
+      {
+        "label": "other (Forms)",
+        "url": "https://www.gomotionapp.com/team/md/page/forms",
+        "file_type": "other"
+      }
+    ]
+  },
+  {
+    "name": "RAC Mini Splash (SCY)",
+    "date_range": "Sept 22, 2024",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/results-rac-mini-splash_019690.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-rac-mini-splash-2024-22sep2024-001-1-_059276.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkuprac-mini-splash-2024-01-1-_024194.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-meet-events-rac-mini-splash-2024-22sep2024-002-1-1-_083598.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-rac-mini-splash-meet-announcement-5-_033209.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-rac-mini-splash-meet-announcement-5-_033209.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-meet-events-rac-mini-splash-2024-22sep2024-002-1-1-_083598.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSctuJkVn_ISPEw3iIXSstUdThp_SUpJtrJuEFlWFBIa1s2INg/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/results-rac-mini-splash_019690.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-rac-mini-splash-2024-22sep2024-001-1-_059276.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkuprac-mini-splash-2024-01-1-_024194.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "MAC / FSC Dual Meet (SCY)",
+    "date_range": "Sept 28-29, 2024",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-mac-fsc-10-under-pentathalon-results_047389.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2024-mac-fsc-10---u-pentathlon-dual-meet-22sep2024-001_099938.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2024-mac-fsc-10-u-pentathlon-dual-meet-01_068099.zip",
+    "event_file_url": null,
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-mac-fsc-pentathlon-meet-notice_094258.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-mac-fsc-pentathlon-meet-notice_094258.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSeClYPkyDZM_UtHsWD5HDm7xt9e3hQirS51DjiGRsCukj_TyQ/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-mac-fsc-pentathlon-warm-ups_048798.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-mac-fsc-pentathlon-session-report_006694.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-mac-fsc-pentathlon-psych-sheet_034326.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-mac-fsc-10-under-pentathalon-results_047389.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2024-mac-fsc-10---u-pentathlon-dual-meet-22sep2024-001_099938.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2024-mac-fsc-10-u-pentathlon-dual-meet-01_068099.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "RAC First Splash (SCY)",
+    "date_range": "Oct 4-6, 2024",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/results-form_099914.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-rac-first-splash-2024-27sep2024-001-1-_049392.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkuprac-first-splash-2024-05-1-_098110.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-meet-events-rac-first-splash-2024-27sep2024-001-3-_061015.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-rac-first-splash-meet-announcement-2-_024994.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-rac-first-splash-meet-announcement-2-_024994.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-meet-events-rac-first-splash-2024-27sep2024-001-3-_061015.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdsakxoMy4bpFVL_YOlPC_H4-npV1Oe4dcH-WNT-X14H7RlWQ/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/results-form_099914.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-rac-first-splash-2024-27sep2024-001-1-_049392.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkuprac-first-splash-2024-05-1-_098110.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "ASC All Freestyle Meet (SCY)",
+    "date_range": "Oct 5-6, 2024",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2024-asc-all-freestyle-meet-results_092804.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2024-asc-all-freestyle-meet-04oct2024-001_071385.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm7bkup2024-asc-all-freestyle-meet-08-final-2024-10-06_040039.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-2024-10-04-asc-all-freestyle-meet-event-file-ver-001-1-_049522.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-asc-all-freestyle-meet-modified-2024-09-19-_073334.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-asc-all-freestyle-meet-modified-2024-09-19-_073334.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-2024-10-04-asc-all-freestyle-meet-event-file-ver-001-1-_049522.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLScIKoE4wrEJIKvN3RxMYGuYCTKuqtAhY0KuxUtOmiebnSR95A/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648482-warmup-schedule---2024-freestyle-meet_083813.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648684-timeline-1-_073384.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648679-psych-sheet2_093946.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2024-asc-all-freestyle-meet-results_092804.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2024-asc-all-freestyle-meet-04oct2024-001_071385.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm7bkup2024-asc-all-freestyle-meet-08-final-2024-10-06_040039.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "LBA Aimee McCormick Turrall Memorial Meet (SCY)",
+    "date_range": "Oct 5-6, 2024",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-mm8results1coldefault-1-_030859.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2024-aimee-mccormick-turrall-memorial-meet-04oct2024-001_058538.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2024-aimee-09_059166.zip",
+    "event_file_url": null,
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024amtm_039399.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024amtm_039399.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSeUGg9wbdz3FjJNj3AIXYvecPaL9SDY_SDiMozPR3j1chcLBg/viewform?vc=0&c=0&w=1&flr=0",
+        "file_type": "other"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-mm8results1coldefault-1-_030859.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2024-aimee-mccormick-turrall-memorial-meet-04oct2024-001_058538.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2024-aimee-09_059166.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "EST Senior Invite (SCY)",
+    "date_range": "Oct 5-6, 2024",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/updated-est-senior-meet-results_074858.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2024-eagle-swim-team-senior-invite-05oct2024-001_087068.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkup2024-est-senior-invite-02_064597.zip",
+    "event_file_url": null,
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-est-senior-invite-meet-notice-1-_042058.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-est-senior-invite-meet-notice-1-_042058.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSeFDAuJGrlJJvLZju1TZoehPaELUOv8-3whDMZuFb9TP7mg1Q/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648482-2024-warm-up-assignments_016490.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648684-senior-invite-timeline_061933.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648679-senior-invite-psych-sheet_090554.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/updated-est-senior-meet-results_074858.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2024-eagle-swim-team-senior-invite-05oct2024-001_087068.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkup2024-est-senior-invite-02_064597.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "CAA Mini & Mid Distance Meet (SCY)",
+    "date_range": "Oct 12-13, 2024",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/results-caa-early-season-meet_047567.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-caa-early-season-mini---mid-distance-meet-05oct2024-001_040774.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2024-caa-early-season-mini-mid-distance-meet-01_000308.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-caa-early-season-mini---mid-distance-meet-05oct2024-002_021842.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-caa-mini-mid-distance-meet-notice-3-_061717.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-caa-mini-mid-distance-meet-notice-3-_061717.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-caa-early-season-mini---mid-distance-meet-05oct2024-002_021842.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdiLj2ufFSt8_jC2lTPHSgoSIIyIXqEYLmHCFoMi356E9KMDg/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/warm-up-assignments_008529.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-timeline_038348.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/psych-sheet-1-_053560.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/results-caa-early-season-meet_047567.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-caa-early-season-mini---mid-distance-meet-05oct2024-001_040774.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2024-caa-early-season-mini-mid-distance-meet-01_000308.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "CBAC A & Under Meet (SCY)",
+    "date_range": "Oct 18-20, 2024",
+    "season": "2024-2025",
+    "result_pdf_url": null,
+    "result_zip_url": null,
+    "backup_zip_url": null,
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-meet-events-2024-cbac-eric-t-askins-memorial-meet-12oct2024-001-1-_005162.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-cbac-erictaskins-meet-12-13october2024-v2_041043.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-cbac-erictaskins-meet-12-13october2024-v2_041043.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-meet-events-2024-cbac-eric-t-askins-memorial-meet-12oct2024-001-1-_005162.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLScFHT9yKgVpYg5iG4o00JJL_DfAiffyVYAwCyWiiKC3TFDqmA/viewform",
+        "file_type": "other"
+      }
+    ]
+  },
+  {
+    "name": "NBAC Fall Fastival (SCY)",
+    "date_range": "Oct 19-20, 2024",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meetresults-submission-1278411348_007608.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2024-nbac-fall-fastival-meet-18oct2024-001_049868.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm7bkup2024-nbac-fall-fastival-meet-02_069252.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-meet-events-2024-nbac-fall-fastival-meet-18oct2024-001-1-_047616.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/initial-nbac-fastival_075421.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/initial-nbac-fastival_075421.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-meet-events-2024-nbac-fall-fastival-meet-18oct2024-001-1-_047616.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSf6is1bBw7QC6dCYZjIoMYJtX7ECDyQblis8_D4J9g5lJwp_A/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648482-2024-nbac-fall-fastival-warmup-lane-assignments-1-_091180.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648684-2024-nbac-fall-fastival-meet---timeline_020745.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648679-2024-nbac-fall-fastival-meet---psych-sheet_009027.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meetresults-submission-1278411348_007608.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2024-nbac-fall-fastival-meet-18oct2024-001_049868.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm7bkup2024-nbac-fall-fastival-meet-02_069252.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "FSC Fall Invitational 1 (SCY)",
+    "date_range": "Oct 26-27, 2024",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-fox-fall-invitational-meet-results_055361.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2024-fox-fall-invitational-1-19oct2024-002_026320.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2024-fox-fall-invitational-1-05_008997.zip",
+    "event_file_url": null,
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-fox-fall-invitational-meet-1_074271.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-fox-fall-invitational-meet-1_074271.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfseE-8qYNtRCt78Ql5qZvq-J6adku4v98LjTZ1dJ9SoZGvHg/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-invite-1-warmups-and-timers_065869.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-fox-fall-invite-1-session-report_021267.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-fox-invitational-1-psych-sheet_010499.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-fox-fall-invitational-meet-results_055361.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2024-fox-fall-invitational-1-19oct2024-002_026320.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2024-fox-fall-invitational-1-05_008997.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "FAST Sprint & Distance Meet (SCY)",
+    "date_range": "Nov 2-3, 2024",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2024-10-26-results_093859.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-fast-2024-fall-sprint---distance-meet-26oct2024-001_098839.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2024-fast-sprint-distance-v2-07_082655.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-08-17-fast-2024-fall-sprint---distance-meet-26oct2024-001_044388.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-fast-fall-sprint-distance-meet-announcement-v1-4_003509.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-fast-fall-sprint-distance-meet-announcement-v1-4_003509.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-08-17-fast-2024-fall-sprint---distance-meet-26oct2024-001_044388.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd9X_wQanNp21kLxNxmrQrJ4bPtP248eUp-CEswXIXKQ3CcVg/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648482-2024-10-14-warm-up-assignments-1-_037161.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648684-2024-10-17-timeline_017736.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648679-2024-10-17-psych_057828.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2024-10-26-results_093859.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-fast-2024-fall-sprint---distance-meet-26oct2024-001_098839.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2024-fast-sprint-distance-v2-07_082655.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "FSC Fall Invitational 2 (SCY)",
+    "date_range": "Nov 2-3, 2024",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-fox-fall-invitational-meet-2-results_037487.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2024-fox-fall-invitational-2-02nov2024-001_009888.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2024-fox-fall-invitational-2-04_090972.zip",
+    "event_file_url": null,
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-fox-fall-invitational-meet-2_033158.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-fox-fall-invitational-meet-2_033158.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdNolxRS5DsllOz0Yr1wjyE2pF8SVAHgtu1po0WQJRJPbBb6w/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-invite-2-warmups-and-timers_084777.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-fox-invitational-2-session-report_022747.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-fox-invitational-2-psych-sheet_035906.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-fox-fall-invitational-meet-2-results_037487.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2024-fox-fall-invitational-2-02nov2024-001_009888.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2024-fox-fall-invitational-2-04_090972.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "MAC Fall Frenzy Meet (SCY)",
+    "date_range": "Nov 9, 2024",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-mac-fall-frenzy-final-results_067841.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2024-bridget-vache-memorial-mac-fall-frenzy-02nov2024-001_011055.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkup2024-mac-fall-frenzy-meet-04_004423.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2024-bridget-vache-memorial-mac-fall-frenzy-02nov2024-001-1-1-_045510.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-mac-fall-frenzy-meet-notice-1-_046922.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-mac-fall-frenzy-meet-notice-1-_046922.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2024-bridget-vache-memorial-mac-fall-frenzy-02nov2024-001-1-1-_045510.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfrQDn3zs6p3dJbiV9cDSezvz4YDYHLD8az6_YAt42rQdNg_g/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648482-fall-frenzy-warm-ups_026982.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648684-timeline-seeded-10-28_030688.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-mac-fall-frenzy-final-results_067841.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2024-bridget-vache-memorial-mac-fall-frenzy-02nov2024-001_011055.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkup2024-mac-fall-frenzy-meet-04_004423.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "FSC/EST Dual Meet (SCY)",
+    "date_range": "Nov 8-10, 2024",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-est-fsc-distance-dual-results_081728.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2024-fsc---est-distance-dual-09nov2024-002_039596.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2024-fsc-est-distance-dual-meet-06_086852.zip",
+    "event_file_url": null,
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-fox-and-est-distance-dual-meet_035458.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-fox-and-est-distance-dual-meet_035458.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLScugVoKReTPc2wOyGaBdiw0z_NeXOp2FFiJcIRA41E-kHcsOg/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-est-fsc-distance-dual-warm-ups_067856.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-est-fsc-distance-dual-session-report_007751.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-est-fsc-distance-dual-psych-sheet_012649.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-est-fsc-distance-dual-results_081728.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2024-fsc---est-distance-dual-09nov2024-002_039596.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2024-fsc-est-distance-dual-meet-06_086852.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "CAC Zachary Spain Memorial Meet (SCY)",
+    "date_range": "Nov 15-17, 2024",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2024-cac-4th-annual-zach-spain-rev-1-1-_005564.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2024-cac-4th-annual-zach-spain-b-slower-meet-08nov2024-002-1-_020197.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkup2024-cac-4th-annual-zachary-spain-memorial-b-slower-swim-meet-02-1-_088149.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2024-cac-4th-annual-zach-spain-b-slower-meet-08nov2024-002_086665.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/cac-short-course-4th-annual-zachary-spain-memorial-b-slower-swim-meet-november-8-10-2024-10-15-2024-1-_079710.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/cac-short-course-4th-annual-zachary-spain-memorial-b-slower-swim-meet-november-8-10-2024-10-15-2024-1-_079710.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2024-cac-4th-annual-zach-spain-b-slower-meet-08nov2024-002_086665.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd0fpu7a7MnZToVGDFodjZNp20-c8Rq655SyExYEoZt3WxT6A/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/warm-up-lane-assignments-v-2_086062.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-cac-zach-spain-memorial-swim-meet-sessions-timeline-v-2_019550.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-cac-zach-spain-memorial-swim-meet-psych-report-v-2_064018.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2024-cac-4th-annual-zach-spain-rev-1-1-_005564.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2024-cac-4th-annual-zach-spain-b-slower-meet-08nov2024-002-1-_020197.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkup2024-cac-4th-annual-zachary-spain-memorial-b-slower-swim-meet-02-1-_088149.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "GBSA Thanksgiving Swimfest - Site 1 (SCY)",
+    "date_range": "Nov 15-17, 2024",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/mm7results1coldefaultnosplits_001440.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-gbsa---2024-thanksgiving-swim-fest-15nov2024-001_096881.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkupgbsa---november-2024--thanksgiving-swimfest-07_093730.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-gbsa---2024-thanksgiving-swim-fest-15nov2024-001-1-_073782.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/gbsa-thanksgiving-2024-meet-announcement-updated-10-1-2024_071684.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/gbsa-thanksgiving-2024-meet-announcement-updated-10-1-2024_071684.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-gbsa---2024-thanksgiving-swim-fest-15nov2024-001-1-_073782.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSeXZ41UMHEG2cZXQY2yRSvgSG8PYY5oeIhZbxru4XAbAqpHHQ/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/warmup-schedule-gbsa-tgf-meet_048178.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/sessions-timelines-gbsa-tgf-meet_088441.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/psych-sheet-gbsa-tgf-meet_042908.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/mm7results1coldefaultnosplits_001440.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-gbsa---2024-thanksgiving-swim-fest-15nov2024-001_096881.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkupgbsa---november-2024--thanksgiving-swimfest-07_093730.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "NBAC Thanksgiving Meet - Site 2 (SCY)",
+    "date_range": "Nov 15-17, 2024",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meetresults-submission-1288380354-1-_078383.pdf",
+    "result_zip_url": null,
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm7bkup2024-nbac-thanksgiving-meet-02_027350.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-meet-events-2024-nbac-thanksgiving-meet-15nov2024-001-1-_069132.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/initial-nbac-thanksgiving_060426.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/initial-nbac-thanksgiving_060426.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-meet-events-2024-nbac-thanksgiving-meet-15nov2024-001-1-_069132.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSeibgvbmsLRK2_DZreAqYYhku4y6mLudorc8Ke8eUMY7vCSGQ/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meetresults-submission-1288380354-1-_078383.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2024-nbac-thanksgiving-meet---final-results---pdf-1-_046585.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm7bkup2024-nbac-thanksgiving-meet-02_027350.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "ACA Harevest Festival - Site 3 (SCY)",
+    "date_range": "Dec 6, 2024",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-harvest-festival-2024-15nov2024-003_095183.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-harvest-festival-2024-15nov2024-003_049344.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkupharvest-fest-2024-12_086681.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-11-15-aca-meet-event-file-version-3_082376.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-harvest-festival-meet-announcement---final-1_095123.pdf",
+    "all_files": [
+      {
+        "label": "timeline (Updated Warm up and Session Times)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/aca-harvest-fest-2024-session-changes_099346.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-harvest-festival-meet-announcement---final-1_095123.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-11-15-aca-meet-event-file-version-3_082376.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdR5U_ysFIjqRf-kqvIcLt2XlQgr6OH7Em1IfaZismf4dNq5Q/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648482-2024-harvest-festival---warm-up-assignments_044347.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648684-2024-harvest-festival---timeline_089367.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648679-2024-harvest-festival---psych-sheet_024932.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-harvest-festival-2024-15nov2024-003_095183.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-harvest-festival-2024-15nov2024-003_049344.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkupharvest-fest-2024-12_086681.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "NAAC Holiday Blast Mini Meet (SCY)",
+    "date_range": "Dec 7-8, 2024",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-printedresultsmini121024_098895.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2024-naac-holiday-blast-mini-meet-06dec2024-001_099018.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2024-naac-holiday-blast-mini-meet-17_030574.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/event-file-naac-holiday-mini_036886.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-naac-holiday-blast-mini-meet_059802.pdf",
+    "all_files": [
+      {
+        "label": "other (PreMeet Infromation from Host Team)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/naac-mini-meet-premeet-information_073225.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-naac-holiday-blast-mini-meet_059802.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/event-file-naac-holiday-mini_036886.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/1iA0ApuLLk6IF9tO62WJtH4J9BfXXWMj82XiyWx1P3bs/viewform?ts=66c5f546&edit_requested=true",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/mini-meet-warm-ups-and-seating_013831.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/minisession120224_080396.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/psychmini120224_099452.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-printedresultsmini121024_098895.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2024-naac-holiday-blast-mini-meet-06dec2024-001_099018.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2024-naac-holiday-blast-mini-meet-17_030574.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "NAAC Holiday Blast BB & Under Meet (SCY)",
+    "date_range": "Dec 7-8, 2024",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-blastprintedresults120924_077801.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2024-naac-holiday-blast-07dec2024-001_055209.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2024-naac-holiday-blast-23_032599.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/event-file-naac-holiday_083297.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-naac-holiday-blast-meet_045951.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-naac-holiday-blast-meet_045951.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/event-file-naac-holiday_083297.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/1jL_k8lgS7AQaVNB4_R6EiAuxRNIfdKtDgiJJiOTyiOE/viewform?ts=66c5f694&edit_requested=true",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/blast-warm-ups-and-seating-assignment_074601.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/sessionblast120324_077786.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/psychblast120324_061806.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-blastprintedresults120924_077801.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2024-naac-holiday-blast-07dec2024-001_055209.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2024-naac-holiday-blast-23_032599.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "NBAC Holiday Invitational (SCY)",
+    "date_range": "Dec 8, 2024",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2024-nbac-holiday-invitational-meet---final-results_068614.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2024-nbac-holiday-invitational-06dec2024-001_098410.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm7bkup2024-nbac-holiday-invitational-01_017129.zip",
+    "event_file_url": null,
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127647009-2024-nbac-holiday-invitational-meet---meet-notice_005583.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127647009-2024-nbac-holiday-invitational-meet---meet-notice_005583.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfYMhr4mh8CwS3X-CMBBYnn14TEGY7hULEOBinGFmqJYsewtg/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2024-nbac-holiday-invitational-meet---final-results_068614.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2024-nbac-holiday-invitational-06dec2024-001_098410.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm7bkup2024-nbac-holiday-invitational-01_017129.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "NBAC Holiday 8 & Under Meet (SCY)",
+    "date_range": "Dec 12-15, 2024",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2024-nbac-8-u-holiday-invitational-meet---final-results_045466.pdf",
+    "result_zip_url": null,
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm7bkup2024-nbac-holiday-8-u-invitational-01_094544.zip",
+    "event_file_url": null,
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127647009-2024-nbac-holiday-8-u-invitational-meet---meet-notice_071855.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127647009-2024-nbac-holiday-8-u-invitational-meet---meet-notice_071855.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfYMhr4mh8CwS3X-CMBBYnn14TEGY7hULEOBinGFmqJYsewtg/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2024-nbac-8-u-holiday-invitational-meet---final-results_045466.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2024-nbac-8-u-holiday-invitational-meet---final-results_057307.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm7bkup2024-nbac-holiday-8-u-invitational-01_094544.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "NBAC Christmas Invitational (SCY)",
+    "date_range": "Dec 14-15, 2024",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-nbac-christmas-meet-results_009617.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2024-nbac-50th-annual-christmas-invitational-12dec2024-001_049820.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2024-nbac-christmas-invitational-01_017828.zip",
+    "event_file_url": null,
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127647009-2024-nbac-christmas-invitational-meet---meet-notice_013093.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127647009-2024-nbac-christmas-invitational-meet---meet-notice_013093.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLScpAktNugbQD9DiPgvNmqBpKOxk6FiMy-QgrpVeXTTV2EMD0g/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-nbac-christmas-meet-results_009617.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2024-nbac-50th-annual-christmas-invitational-12dec2024-001_049820.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2024-nbac-christmas-invitational-01_017828.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "ASC Holiday Invitational (SCY)",
+    "date_range": "Dec 14-15, 2024",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2024-asc-holiday-invitational-results_066004.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2024-asc-holiday-invitational-14dec2024-001_049476.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm7bkup2024-asc-holiday-invite-modified3-01_067922.zip",
+    "event_file_url": null,
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-asc-holiday-meet-modified-2024-11-29-2-_089091.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-asc-holiday-meet-modified-2024-11-29-2-_089091.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSeU_wQR7vrzs6UgjvGoXRPfLZg4-aysC-p-i3VlLSoTo2z9DQ/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2024-asc-holiday-invitational-results_066004.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2024-asc-holiday-invitational-14dec2024-001_049476.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm7bkup2024-asc-holiday-invite-modified3-01_067922.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "LBA Blizzard Buster Invitational (SCY)",
+    "date_range": "Dec 21-22, 2024",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024blizzard-results_001200.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2024-blizzard-buster-meet-14dec2024-002_074128.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkup2024-blizzard-buster-meet-13_080390.zip",
+    "event_file_url": null,
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-blizzard-buster-1-_085708.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-blizzard-buster-1-_085708.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSf2AvPiX9QoGocwP5K7cu9cknbV-tUJfcy4ygMhNqm3sHbIqw/viewform?vc=0&c=0&w=1&flr=0",
+        "file_type": "other"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024blizzard-results_001200.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2024-blizzard-buster-meet-14dec2024-002_074128.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkup2024-blizzard-buster-meet-13_080390.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "MAS 8 & Under Meet (SCY)",
+    "date_range": "Dec 21-22, 2024",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-merritt-8under-results_058012.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2024-merritt-8-under-meet-21dec2024-001_070324.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2024-merritt-8under-meet-01_017251.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2024-merritt-8-under-meet-21dec2024-001_071318.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-merritt-8-under-meet-notice-1-_092899.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-merritt-8-under-meet-notice-1-_092899.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2024-merritt-8-under-meet-21dec2024-001_071318.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSetwufzyQIX1e-02xQj8YaA3b53aB1kItVlOgrwn6xve5KHRA/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/merritt-8-u-warm-up-2024_052944.docx",
+        "file_type": "doc"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648684-8u-seated-timeline_088713.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-merritt-8under-results_058012.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2024-merritt-8-under-meet-21dec2024-001_070324.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2024-merritt-8under-meet-01_017251.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "MAS Distance Meet (SCY)",
+    "date_range": "Dec 22, 2024",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-merritt-distance-results_024753.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2024-merritt-distance-meet-21dec2024-001_049019.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2024-merritt-distance-meet-01_008447.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/updated-meet-events--merritt-distance-meet-dec-21-22_003866.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-merritt-distance-meet-notice-1-_091866.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-merritt-distance-meet-notice-1-_091866.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/updated-meet-events--merritt-distance-meet-dec-21-22_003866.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSeyu81Z7ddr8XPFGsNaCQAfTgvGdrmiJ6Oq9dpiV9AcpmQRVA/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/merritt-distance-warm-up-2024_073248.docx",
+        "file_type": "doc"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648684-distance-timeline-12-13_046409.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648679-distance-psych-sheet_001993.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-merritt-distance-results_024753.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2024-merritt-distance-meet-21dec2024-001_049019.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2024-merritt-distance-meet-01_008447.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "FSC Winter Clean Up Meet (SCY)",
+    "date_range": "Dec 28-29, 2024",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-fox-winter-clean-up-meet-results_009533.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2024-fox-winter-clean-up-meet-22dec2024-001_046144.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2024-fox-winter-clean-up-meet-01_052192.zip",
+    "event_file_url": null,
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-fox-winter-clean-up-meet_096972.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-fox-winter-clean-up-meet_096972.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfx809u4n66m-kszGqlpkPzRWn_mVz8ByNPDGl1YoWMuXM97Q/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-fox-winter-clean-up-meet-results_009533.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2024-fox-winter-clean-up-meet-22dec2024-001_046144.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2024-fox-winter-clean-up-meet-01_052192.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "EST IMX Distance Challenge - Site 1 (SCY)",
+    "date_range": "Dec 28-29, 2024",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2024-imx-results_075487.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2024-speedo-imx-distance-challenge-28dec2024-001_044888.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2024-est-speedo-imx-distance-challenge-meet-01_093496.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2024-speedo-imx-distance-challenge-28dec2024-001-1-_050239.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-speedo-imx-distance-challenge-meet-notice-3-_089903.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-speedo-imx-distance-challenge-meet-notice-3-_089903.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2024-speedo-imx-distance-challenge-28dec2024-001-1-_050239.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLScnvSg3-m4IlWVnhYdHsD63kHlFY7cFmkgu1tIPZrpEqEYsHw/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2024-imx-results_075487.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2024-speedo-imx-distance-challenge-28dec2024-001_044888.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2024-est-speedo-imx-distance-challenge-meet-01_093496.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "LBA IMX Distance Challenge- Site 2 (SCY)",
+    "date_range": "Dec 28-29, 2024",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2024-imx-results_086104.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2024-lba-imx-distance-challenge-28dec2024-002_005903.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2024-lba-imx-distance-challenge-04_001537.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-2024-12-28-lba-meet-events-2024-lba-imx-distance-challenge-28dec2024-001_099874.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-imx-1-_018805.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-imx-1-_018805.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-2024-12-28-lba-meet-events-2024-lba-imx-distance-challenge-28dec2024-001_099874.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSewSf1ICSC2L193pBMt3Yhwkkgfm-RrN6bAA86EUEatESUoHQ/viewform?vc=0&c=0&w=1&flr=0",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648482-rac-classic-2025-warm-ups_027786.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648684-imx-timeline2024_083860.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648679-psych-sheet-01072025_040195.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2024-imx-results_086104.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2024-lba-imx-distance-challenge-28dec2024-002_005903.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2024-lba-imx-distance-challenge-04_001537.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "ASC IMX Challenge - Site 3 (SCY)",
+    "date_range": "Jan 4-5, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2024-asc-imx-challenge-results_064528.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2024-asc-imx-challenge-28dec2024-001_012252.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm7bkup2024-asc-imx-challenge-09-final_033852.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-2024-12-28-asc-imx-challenge-meet-event-file-ver-001-1-_012994.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-asc-imx-challenge-meet-updated_048981.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-asc-imx-challenge-meet-updated_048981.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-2024-12-28-asc-imx-challenge-meet-event-file-ver-001-1-_012994.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLScFurwAyaGAe9rF1g7DRaOCFE4cys83N9Dw_FGflJy8YZFltA/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648482-warmup-schedule---2024-imx-challenge_000223.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648684-2024-imx-timeline1_037024.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648679-2024-imx-psych-sheet1_022733.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2024-asc-imx-challenge-results_064528.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2024-asc-imx-challenge-28dec2024-001_012252.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm7bkup2024-asc-imx-challenge-09-final_033852.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "NBAC Winter BB-A & Under Meet - Site 1 (SCY)",
+    "date_range": "Jan 4-5, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-nbac-new-year-s-kickoff-meet---final-results---pdf_030342.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-nbac-new-year-s-kick-off-meet-04jan2025-001_007423.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkup2025-nbac-new-year-s-kick-off-meet-05_023107.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-nbac-new-year-s-kick-off-meet-04jan2025-001_077586.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127647009-2025-nbac-new-years-kick-off-meet---meet-notice-_006127.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127647009-2025-nbac-new-years-kick-off-meet---meet-notice-_006127.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-nbac-new-year-s-kick-off-meet-04jan2025-001_077586.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdjMj4eZa3tgZ6OKVexsRSjvwT620oVOu5aOY0x5ZXXHpGpMw/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/book-79-2-_087334.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-nbac-new-year-s-kickoff-meet---session-report---timeline-1-_086940.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-nbac-new-year-s-kickoff-meet---psych-sheet-1-_042861.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-nbac-new-year-s-kickoff-meet---final-results---pdf_030342.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-nbac-new-year-s-kick-off-meet-04jan2025-001_007423.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkup2025-nbac-new-year-s-kick-off-meet-05_023107.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "FAST Splash Meet - Site 2 (SCY)",
+    "date_range": "Jan 12, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": null,
+    "result_zip_url": null,
+    "backup_zip_url": null,
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-11-07-2024-fast-winter-splash-04jan2025-003_017390.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-fast-winter-splash-meet-announcement-v2-5_098712.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-fast-winter-splash-meet-announcement-v2-5_098712.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2024-11-07-2024-fast-winter-splash-04jan2025-003_017390.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSeJHeG5wjO9ryLfk8QCQ8iWJHBSwmgi-yl8I5AEpUZ7sCB0Lw/viewform",
+        "file_type": "other"
+      }
+    ]
+  },
+  {
+    "name": "FSC Winter Sprint, Mini & Distance Meet (SCY)",
+    "date_range": "Jan 17-20, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-fox-january-distance-and-sprint-meet-results_004443.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-fox-january-distance---sprint-meet-12jan2025-001_070428.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2025-fox-january-distance-and-sprint-meet-03_043704.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-fox-january-distance---sprint-meet-12jan2025-002_066918.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-fox-january-distance-and-sprint-meet_030916.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-fox-january-distance-and-sprint-meet_030916.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-fox-january-distance---sprint-meet-12jan2025-002_066918.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSeScPGdhG-eoTyEQzYRWtE10mPdROX82O38ugvSKbgHSQiZ5w/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-sprint-distance-warm-up-and-timer-requests-1-_003210.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-spring-distance-session-report_070938.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-sprint-distance-psych-sheet-1-_037544.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-fox-january-distance-and-sprint-meet-results_004443.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-fox-january-distance---sprint-meet-12jan2025-001_070428.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2025-fox-january-distance-and-sprint-meet-03_043704.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "(12 and under) -",
+    "date_range": "Jan 18-19, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-retriever-classic-results_078788.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-retriever-classic-17jan2025-001_084331.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkup2025-retriever-classic-14_061933.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-retriever-classic-17jan2025-004_056398.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-retriever-classic-meet-announcement-6-_037786.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-retriever-classic-meet-announcement-6-_037786.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-retriever-classic-17jan2025-004_056398.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdvutWpMY70Ya4bXw-x17Tta81SedxF1gxOvQD5Y2tEQ-dcfQ/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648684-timeline-01092025_095033.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648684-timeline-01092025_017363.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648679-psych-sheet-01072025_019017.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-retriever-classic-results_078788.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-retriever-classic-17jan2025-001_084331.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkup2025-retriever-classic-14_061933.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "MAS Live M.A.S. Meet (SCY)",
+    "date_range": "Jan 19, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": null,
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-live-mas-final-results_026507.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-live-mas-final-results_026507.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-01-18-live-mas-event-file-version-1_069359.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-updated-live-mas-meet-notice_041096.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-updated-live-mas-meet-notice_041096.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-01-18-live-mas-event-file-version-1_069359.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLScg_8zmQ5yqzy6IoRnp5jKOMVrt4iPmq7-qaHLrZfr0OLUQoQ/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "other (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-live-mas-final-results_026507.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-live-mas-final-results_026507.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-live-mas-final-results_026507.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "FSC January Short Course Invitational (SCY)",
+    "date_range": "Jan 25-26, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": null,
+    "result_zip_url": null,
+    "backup_zip_url": null,
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-january-invitational-19jan2025-001_009968.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-fox-january-short-course-invitational_063783.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-fox-january-short-course-invitational_063783.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-january-invitational-19jan2025-001_009968.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSduyjpJ0n6V19hFHPsU0u-5WGX45778wJw8T3r09FiPThITPQ/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/warm-ups_039120.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-january-invitational-session-mixed-events_041974.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-january-invitational-psych-sheet_031482.pdf",
+        "file_type": "pdf"
+      }
+    ]
+  },
+  {
+    "name": "MAC Hogan Memorial Meet (SCY)",
+    "date_range": "Feb 1-2, 2024",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/final-results-2-_026671.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-mac-robert-j-hogan-memorial-mini-meet-25jan2025-001-1-_036038.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkup2025-mac-hogan-memorial-meet-08-1-_060271.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-mac-robert-j-hogan-memorial-mini-meet-25jan2025-001-1-_060789.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-mac-hogan-mini-meet-notice-2-_041751.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-mac-hogan-mini-meet-notice-2-_041751.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-mac-robert-j-hogan-memorial-mini-meet-25jan2025-001-1-_060789.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdhMAxTQDEi-zxJpXUNDDH108BPh6gror0wNF1cy3YYuxnWCw/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/hogan-meet-warm-ups_018780.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/timeline_000815.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/final-results-2-_026671.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-mac-robert-j-hogan-memorial-mini-meet-25jan2025-001-1-_036038.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkup2025-mac-hogan-memorial-meet-08-1-_060271.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "ASC Senior Meet (SCY)",
+    "date_range": "Feb 7-9, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2025-asc-senior-meet-results_050257.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-asc-senior-meet-01feb2025-001_032646.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm7bkup2025-senior-meet-08_010688.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-2025-02-01-asc-senior-meet-event-file-ver-001_080543.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-asc-senior-meet-4-_008139.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-asc-senior-meet-4-_008139.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-2025-02-01-asc-senior-meet-event-file-ver-001_080543.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSeL5xQJiRfiSYattorbbam2Lea3evjzh2-7sad1wK1oPN5lOQ/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648482-warmup-schedule---2025-senior-meet_003198.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648684-timeline---2025-asc-senior-meet_015043.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648679-psych-sheet---2025-asc-senior-meet_078380.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2025-asc-senior-meet-results_050257.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-asc-senior-meet-01feb2025-001_032646.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm7bkup2025-senior-meet-08_010688.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "LBA Last Chance Invite (SCY)",
+    "date_range": "Feb 7-9, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-last-chance-results-1-_012710.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-lba-last-chance-invite-07feb2025-001_057901.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2025-lba-last-chance-invite-10_023858.zip",
+    "event_file_url": null,
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-last-chance-1-_058123.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-last-chance-1-_058123.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfc7SWwMGm6UJA1Fy1rih9zz4bn7LyCgmGRBDIadUwVRvBTkA/viewform?vc=0&c=0&w=1&flr=0",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648482-last-chance-warmup_023713.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648684-last-chance-timeline_072038.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-last-chance-results-1-_012710.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-lba-last-chance-invite-07feb2025-001_057901.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2025-lba-last-chance-invite-10_023858.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "GBSA Last Chance Meet - Site 1 (SCY)",
+    "date_range": "Feb 7-9, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-gbsa-last-chance-results_005591.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-gbsa---2025-last-chance-qualifying-07feb2025-001_037119.zip",
+    "backup_zip_url": null,
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-gbsa---2025-last-chance-qualifying-07feb2025-003_063474.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-gbsa-lcq-meet-notice-updated-2-5-2025_044111.pdf",
+    "all_files": [
+      {
+        "label": "other (*Updated Session Times*)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/gbsa-lcq-25-info---carron-foxswimming-com---swim-team-mail_035711.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-gbsa-lcq-meet-notice-updated-2-5-2025_044111.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-gbsa---2025-last-chance-qualifying-07feb2025-003_063474.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSc27ZIJcFMu55VIpcmYbcfSyyCswXbYIVvF7sv7ovxo6bjSUg/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/gbsa-lcq25-warmup-schedule_022961.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/gbsa-lcq-meet-timelines-2-4-25r_095658.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/gbsa-lcq-meet-psych-sheet-2-5-2025_045462.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-gbsa-last-chance-results_005591.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-gbsa---2025-last-chance-qualifying-07feb2025-001_037119.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "result_pdf (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-gbsa-last-chance-results_060743.pdf",
+        "file_type": "pdf"
+      }
+    ]
+  },
+  {
+    "name": "CAC Last Chance Qualifying Meet - Site 2 (SCY)",
+    "date_range": "Feb 9, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/final-results-2025-last-chance-qualifying_005123.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-last-chance-qualifying-07feb2025-001-1-_046763.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkup2025-last-chance-qualifying-01-1-_042043.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-last-chance-qualifying-meet-07feb2025-003_088592.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-cac-short-course-last-chance-meet-rev-2-_099170.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-cac-short-course-last-chance-meet-rev-2-_099170.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-last-chance-qualifying-meet-07feb2025-003_088592.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLScsnZyds8Id8sZnZs6zMf7FAvinnzbJBYUtVOgPmADGDov2EQ/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/cac-last-chance-final-meet-warm-ups_089969.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/cac-last-chance-final-timelines_009594.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/cac-last-chance-final-psych-sheets_041804.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/final-results-2025-last-chance-qualifying_005123.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-last-chance-qualifying-07feb2025-001-1-_046763.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkup2025-last-chance-qualifying-01-1-_042043.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "NBAC / GTAC Dual Meet (SCY)",
+    "date_range": "Feb 15-16, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2025-nbac---gtac-last-chance-meet---final-results-pdf_039960.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-nbac--gtac-last-chance---8---u-meet-09feb2025-001_014618.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm7bkup2025-nbac---gtac-last-chance-meet-02_051590.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-mac-fabulous-february--b----mini-meet-15feb2025-001_050421.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127647009-2025-nbac---gtac-last-chance---8-u-meet---meet-notice-_031256.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127647009-2025-nbac---gtac-last-chance---8-u-meet---meet-notice-_031256.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSeO5d05L0tYAwLI48D0hvn3SUVy-xIRqsWULoE7AMTxH17u6g/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2025-nbac---gtac-last-chance-meet---final-results-pdf_039960.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-nbac--gtac-last-chance---8---u-meet-09feb2025-001_014618.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm7bkup2025-nbac---gtac-last-chance-meet-02_051590.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-mac-fabulous-february-meet-notice-2-_089066.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-mac-fabulous-february--b----mini-meet-15feb2025-001_050421.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSeSBfNRcyOZL7_i9RQnoGylQvR5SLtGVNg88jIsMh1GAFVkkw/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648482-fab-feb-meet-warm-ups-1-_090900.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648684-timeline-2-_037829.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648679-psych-sheets_084049.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/mac-fabulous-february-final-results-2-_062980.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-mac-fabulous-february--b----mini-meet-15feb2025-001-1-_077411.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkup2025-mac-fabulous-february-meet-05-1-_062802.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "EST/NAAC B Busteri Meet (SCY)",
+    "date_range": "Feb 16, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/est-naac-results_027873.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-est-vs-naac-bb-buster-dual-meet-15feb2025-001_000589.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkup2025-est-feb-dual-meet-est-v-naac-02_031807.zip",
+    "event_file_url": null,
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-est-naac-dual-meet-notice_027514.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-est-naac-dual-meet-notice_027514.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfN-h6P9gk2nfgoXaoSqxwCxFameAY7Tgu3fD_EvNQjiHrRqw/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/est-naac-warm-ups_023961.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648684-2025-est-naac-dual-meet-timeline_075049.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/est-naac-results_027873.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-est-vs-naac-bb-buster-dual-meet-15feb2025-001_000589.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkup2025-est-feb-dual-meet-est-v-naac-02_031807.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "EST/NAAC/LBA/CAA Mini Meet (SCY)",
+    "date_range": "Feb 20-23, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/est-mini-results_080307.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-est-caa-lba-naac-mini-meet-16feb2025-001_031610.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkup2025-est-feb-mini-meet-01_093905.zip",
+    "event_file_url": null,
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-est-caa-lba-naac-mini-meet-notice-2-_033984.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-est-caa-lba-naac-mini-meet-notice-2-_033984.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdSRkC1SsExd2uxtkk5ecpTCKxbba_ViiC1mnEvFF5pSGiSiQ/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648482-2025-mini-meet-warm-ups_020316.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648684-2025-mini-meet-timeline_004304.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/est-mini-results_080307.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-est-caa-lba-naac-mini-meet-16feb2025-001_031610.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkup2025-est-feb-mini-meet-01_093905.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "LSC Senior Champs Meet (SCY)",
+    "date_range": "Mar 6-9, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/full-meet-results_010019.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-speedo-md-lsc-senior-champs-20feb2025-001_099228.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2025-md-lsc-sr-championships-01-1-_022776.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-md-lsc-senior-champs-20feb2025-001_007932.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-speedo-maryland-senior-championship-meet_038858.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-speedo-maryland-senior-championship-meet_038858.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-md-lsc-senior-champs-20feb2025-001_007932.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd9VlU291_-yrO2_DmtattQYcnAIb1XbVnDvBORTxYKYl0Kng/viewform?usp=sf_link",
+        "file_type": "other"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-md-lsc-sr-champs---preliminary-timeline-1-1-_005406.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-md-lsc-sr-champs---preliminary-psych-sheet-1-1-_064982.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/full-meet-results_010019.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-speedo-md-lsc-senior-champs-20feb2025-001_099228.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2025-md-lsc-sr-championships-01-1-_022776.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "other (Scores)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/senior-meet-individual-team-scores-overall-team-score_086387.pdf",
+        "file_type": "pdf"
+      }
+    ]
+  },
+  {
+    "name": "LSC 14 & U Champs Meet (SCY)",
+    "date_range": "Mar 14-16, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/full-meet-results-1-_078996.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-md-lsc-14---u-championships-06mar2025-002_009122.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2025-md-lsc-14-u-championships-04_029404.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-md-lsc-14---u-championships-06mar2025-001_001478.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-speedo-maryland-14-and-under-championship-meet_042647.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-speedo-maryland-14-and-under-championship-meet_042647.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-md-lsc-14---u-championships-06mar2025-001_001478.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdw6oPKGoWMo61O1Ib7wqGxNjIneHdpRdX0xkpeLf3ruq65sQ/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-md-lsc-14-u-championships---warmup-lane-assignments_042004.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-md-lsc-14-u-champs---final-timeline_021882.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-md-lsc-14-u-champs---final-psych-sheet_096072.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/full-meet-results-1-_078996.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-md-lsc-14---u-championships-06mar2025-002_009122.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2025-md-lsc-14-u-championships-04_029404.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "other (Scores)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/14-u-meet-individual-team-scores-overall-team-score_046684.pdf",
+        "file_type": "pdf"
+      }
+    ]
+  },
+  {
+    "name": "NBAC Junior Champs - Site 1 (SCY)",
+    "date_range": "Mar 14-16, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meetresults-submission-1324817784_099357.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-md-lsc---nbac-jr-champs---site-1-14mar2025-001_007362.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm7bkup2025-md-lsc---nbac-jr-champs---site-1-02_083945.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-md-lsc---nbac-jr-champs---site-1-14mar2025-003_049526.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-speedo-maryland-state-junior-championship-meet---site-1-revised-012125-1-_099583.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-speedo-maryland-state-junior-championship-meet---site-1-revised-012125-1-_099583.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-md-lsc---nbac-jr-champs---site-1-14mar2025-003_049526.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd4mp3WxH0GvjJn3rftoniagK5bpDsNf9XANm2mog9z3xFPuQ/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648482-2025-md-lsc-jr-champs---site-1-warmup-lane-assignments_096624.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648684-2025-md-lsc-jr-champs---nbac-site---timeline_000972.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648679-2025-md-lsc-jr-champs---nbac-site---psych-sheet_054924.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meetresults-submission-1324817784_099357.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-md-lsc---nbac-jr-champs---site-1-14mar2025-001_007362.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm7bkup2025-md-lsc---nbac-jr-champs---site-1-02_083945.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "FSC Junior Champs - Site 2 (SCY)",
+    "date_range": "Mar 22-23, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-junior-champs-site-2-results_034508.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-speedo-maryland-junior-championship---si-14mar2025-001_000304.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2025-speedo-maryland-junior-championship---site-2-03_012121.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-speedo-maryland-junior-championship---si-14mar2025-003_004948.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-speedo-maryland-state-junior-championship-meet-site-2_023355.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-speedo-maryland-state-junior-championship-meet-site-2_023355.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-speedo-maryland-junior-championship---si-14mar2025-003_004948.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfYB0vsoDO-tYFUNv5olOEMJLCpzJiaAawsKZZkeZu0AZvgYQ/viewform?usp=sf_link",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-jr-champ-warm-ups_021364.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-jr-champs-session-report_019615.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-jr-champs-psych-sheet_079268.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-junior-champs-site-2-results_034508.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-speedo-maryland-junior-championship---si-14mar2025-001_000304.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2025-speedo-maryland-junior-championship---site-2-03_012121.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "NBAC 11 & Over B Champs (SCY)",
+    "date_range": "Mar 29-30, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-nbac-b-champs-results_067338.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-md-lsc---nbac-11---over-championships-22mar2025-001_050197.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkup2025-md-lsc-11-over-b-champs-03_072146.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-md-lsc---nbac-11---over-championships-22mar2025-001_081545.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-md-lsc-11-over-b-championships-meet-notice_023328.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-md-lsc-11-over-b-championships-meet-notice_023328.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-md-lsc---nbac-11---over-championships-22mar2025-001_081545.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/u/1/d/e/1FAIpQLScTwNjcJeLBN7RWHpPy7dCpaK9I4ITPBti570X2-F-GZHdPwA/closedform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/b-champs-warmups_087576.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/session-reports-11over-b-champs_004723.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/psych-sheet-110ver-b-champs_046516.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-nbac-b-champs-results_067338.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-md-lsc---nbac-11---over-championships-22mar2025-001_050197.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkup2025-md-lsc-11-over-b-champs-03_072146.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "FSC 8 & Under Champs Meet (SCY)",
+    "date_range": "Mar 29-30, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-speedo-maryland-8-u-champs-results_023716.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-maryland-8---under-championship-meet-29mar2025-001_019277.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2025-maryland-8-under-championship-meet-02_037217.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-maryland-8---under-championship-meet-29mar2025-001_076581.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-maryland-8-and-under-championship-meet_060835.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-maryland-8-and-under-championship-meet_060835.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-maryland-8---under-championship-meet-29mar2025-001_076581.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSe-VtAZbPffwVhXNqpG6f_lHX2kTB-R_l6CfDxFoLYQG7Fdmg/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/8-u-and-9-10-warmups_079778.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-8-u-champs-session-report-final_012920.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-8-u-champs-psych-sheet_030795.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-speedo-maryland-8-u-champs-results_023716.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-maryland-8---under-championship-meet-29mar2025-001_019277.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2025-maryland-8-under-championship-meet-02_037217.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "FSC 9-10 B Champs Meet (SCY)",
+    "date_range": "Apr 4-6, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-9-10-b-champs-results_040806.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-maryland-9-10-b-championship-meet-29mar2025-001_008595.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2025-maryland-9-10-b-championship-meet-02_093706.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-maryland-9-10-b-championship-meet-29mar2025-001_087883.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-maryland-9-10-b-championship-meet_083421.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-maryland-9-10-b-championship-meet_083421.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-maryland-9-10-b-championship-meet-29mar2025-001_087883.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSeglQSOmNoOGVrJZSMv0BxyTf_EJr_voRGzyeir0l4osJSusA/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/8-u-and-9-10-warmups_071875.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-9-10-b-champs-session-report-final_009582.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-9-10-b-champs-psych-sheet_036341.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-9-10-b-champs-results_040806.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-maryland-9-10-b-championship-meet-29mar2025-001_008595.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2025-maryland-9-10-b-championship-meet-02_093706.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "CAC Spring LCM (LCM)",
+    "date_range": "Apr 12-13, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-cac-spring-lcm_014889.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-cac-spring-swimming-to-the-80-s-lcm-sw-04apr2025-001_051678.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkup2025-cac-spring-lcm-meet-03-1-_022978.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-cac-spring-swimming-to-the-80-s-lcm-sw-04apr2025-004_097350.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-cac-spring-lcm-april-5-6-swim-meet-r1_060773.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-cac-spring-lcm-april-5-6-swim-meet-r1_060773.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-cac-spring-swimming-to-the-80-s-lcm-sw-04apr2025-004_097350.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/cac-april-warm-up-assignments---sheet1-1-_076823.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/april-session-report-final_069104.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/april-psych-sheets_009645.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-cac-spring-lcm_014889.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-cac-spring-swimming-to-the-80-s-lcm-sw-04apr2025-001_051678.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkup2025-cac-spring-lcm-meet-03-1-_022978.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "FSC April LC Invitational (LCM)",
+    "date_range": "Apr 12, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-fox-april-lc-meet-results_010391.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-fox-april-long-course-invitational-12apr2025-001_094110.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2025-fox-april-long-course-invitational-04_009687.zip",
+    "event_file_url": null,
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/final-fsc-april_027593.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/final-fsc-april_027593.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSe29U6FZ6edChqd73VOusSa0VAMDq0DF56FXbjJBRHkrrZx1Q/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/april-warm-ups_063338.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/april-lcm-session-report-2025_040386.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/april-lcm-psych-sheet-2025_092827.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-fox-april-lc-meet-results_010391.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-fox-april-long-course-invitational-12apr2025-001_094110.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2025-fox-april-long-course-invitational-04_009687.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "LBA Sprint to the Finish 8 & U Meet (SCY)",
+    "date_range": "Apr 12-13, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2025-lbasprinttofinish-results_099027.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-lba-sprint-to-the-finish-mini-meet-12apr2025-002_085564.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2025-lba-sprint-to-the-finish-mini-meet-11_043302.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-2025-04-12-lba-meet-events-2025-lba-sprint-to-the-finish-mini-meet-12apr2025-001_004732.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-sprint-to-the-finish-1-_039231.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-sprint-to-the-finish-1-_039231.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-2025-04-12-lba-meet-events-2025-lba-sprint-to-the-finish-mini-meet-12apr2025-001_004732.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfrJK0Ytd7_A5OT_30c0oWY__PsDR4thry31L7x5PAxl2tDug/viewform?vc=0&c=0&w=1&flr=0",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648482-lba-sprint-to-the-finish-warmup-schedule_066419.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648684-mini-timeline-2025_061529.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2025-lbasprinttofinish-results_099027.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-lba-sprint-to-the-finish-mini-meet-12apr2025-002_085564.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2025-lba-sprint-to-the-finish-mini-meet-11_043302.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "EST Spring into LC Meet (LCM)",
+    "date_range": "Apr 25-27, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2025-silc-results_041031.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-est-spring-into-long-course-12apr2025-001_074107.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkuprepairbackup-2025-est-spring-into-lc-01_031532.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-est-spring-into-long-course-12apr2025-001_000457.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-est-spring-into-long-course-meet-notice-1-_071242.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-est-spring-into-long-course-meet-notice-1-_071242.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-est-spring-into-long-course-12apr2025-001_000457.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfjJLJZfaBESVl9RdINfvfDROXaIeUlcamLbvgWCsAAhDzP7A/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-warm-up-assignments--silc_016936.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-silc-timeline_015732.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-silc-psych-sheet_059116.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2025-silc-results_041031.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-est-spring-into-long-course-12apr2025-001_074107.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkuprepairbackup-2025-est-spring-into-lc-01_031532.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "NAAC Carol Chidester (LCM)",
+    "date_range": "Apr 25-27, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-printedresultschidester0428_086555.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-naac-carol-chidester-invite-25apr2025-001_052469.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2025-chidester-invite-19_058963.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-meet-events-2025-naac-carol-chidester-invite-25apr2025-001_074921.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-naac-carol-chidester-invite-final_067597.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-naac-carol-chidester-invite-final_067597.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-meet-events-2025-naac-carol-chidester-invite-25apr2025-001_074921.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSc11vfoSJxIoneax7MekJDnKUIff_BBaJ0tyQ5z7Xq27s2hcw/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648482-2025-naac-carol-chidester-invite-warm-up-schedule_010223.xlsx",
+        "file_type": "xlsx"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648684-sessionschid0423_070407.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648679-psychchid0423_031863.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-printedresultschidester0428_086555.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-naac-carol-chidester-invite-25apr2025-001_052469.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2025-chidester-invite-19_058963.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "ASC Spring LC (LCM)",
+    "date_range": "May 3-4, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2025-asc-spring-lc-meet-results_054720.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-asc-spring-long-course-meet-25apr2025-001_075931.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm7bkup2025-asc-spring-lc-meet-11_042124.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-2025-04-25-asc-spring-lc-meet-event-file-ver-001_007274.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-asc-spring-long-course-meet-3-_029634.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-asc-spring-long-course-meet-3-_029634.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-2025-04-25-asc-spring-lc-meet-event-file-ver-001_007274.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSeYcpcIK7rmTFud0cXJIdHO95UX4SdlB1Gwd5cGZMCoXQopdQ/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648482-warmup-schedule---2025-spring-lc-meet_058011.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648684-timeline-final_063543.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648679-psych-sheet4_022150.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2025-asc-spring-lc-meet-results_054720.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-asc-spring-long-course-meet-25apr2025-001_075931.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm7bkup2025-asc-spring-lc-meet-11_042124.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "MAC Mayhem Mini Meet (SCY)",
+    "date_range": "May 2-4, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-mac-may-hem-mini-meet-full-results_084520.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-mac-may-hem-mini-meet-03may2025-001_000339.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkupmac-may-hem-2025-01_092623.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-mac-may-hem-mini-meet-03may2025-001_099046.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-mac-may-hem-mini-meet-notice-2-_071808.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-mac-may-hem-mini-meet-notice-2-_071808.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-mac-may-hem-mini-meet-03may2025-001_099046.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSc_rh98uBQ2oyirDlv0qmdnRu6mYte9jla0KMyn8bE_6sVrTw/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/may-hem-meet-warm-ups-2-_053849.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/timeline-5-_069440.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-mac-may-hem-mini-meet-full-results_084520.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-mac-may-hem-mini-meet-03may2025-001_000339.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkupmac-may-hem-2025-01_092623.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "CAA Clegg Meet - Site 1 (LCM)",
+    "date_range": "May 9-11, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-caa-clegg-results-combined-1-_027819.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-john-c-clegg-memorial-long-course-meet-02may2025-001_009402.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2025-caa-john-c-clegg-meet-01-2_064915.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-meet-events-2025-john-c-clegg-memorial-long-course-meet-02may2025_094755.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-caa-clegg-memorial-meet-notice_004729.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-caa-clegg-memorial-meet-notice_004729.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-meet-events-2025-john-c-clegg-memorial-long-course-meet-02may2025_094755.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSeKRVEUBYuRyQtbcGZJfIc8VCJu17ORnTjeKc90Q5Aj4-21vw/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648482-warm-up-assignments_038329.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648684-timeline-3-_059180.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648679-psych-sheet-1-_036691.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-caa-clegg-results-combined-1-_027819.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-john-c-clegg-memorial-long-course-meet-02may2025-001_009402.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2025-caa-john-c-clegg-meet-01-2_064915.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "NAAC Mother's Day Meet - Site 2 (LCM)",
+    "date_range": "May 16-18, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meetresults-submission-1343360734_007393.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-naac-mother-s-day-meet-10may2025-001_049539.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2025-may-lcm-meet-02-final_011075.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-meet-events-2025-naac-mother-s-day-meet-10may2025-002_074911.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-naac-mother-s-day-meet-final_092593.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-naac-mother-s-day-meet-final_092593.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-meet-events-2025-naac-mother-s-day-meet-10may2025-002_074911.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfUzeEHxHRT7dUFcC2qv16IkUo_WiViDKoq7Va2R1RCKzxGWQ/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648482-2025-naac-mothers-day-meet-warm-up-schedule_090449.xlsx",
+        "file_type": "xlsx"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648684-sessionsmay0503_045340.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648679-psychsheetmay0504_071989.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meetresults-submission-1343360734_007393.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-naac-mother-s-day-meet-10may2025-001_049539.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2025-may-lcm-meet-02-final_011075.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "RAC Abby Seeger Meet (LCM)",
+    "date_range": "May 16-18, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-rac-abby-seeger-meet-final-results-with-splits_060341.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-abby-seeger-memorial-invitational-16may2025-001_008675.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkup2025-abby-seeger-01_092636.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-meet-events-2025-abby-seeger-memorial-invitational-16may2025-001_036160.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-abby-seeger-meet-announcement-4-_012665.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-abby-seeger-meet-announcement-4-_012665.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-meet-events-2025-abby-seeger-memorial-invitational-16may2025-001_036160.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdp9mYdHTI4jRIsEp21UwzCFkr3VH6s3R6TGqvUBjnh8SryxA/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-abby-seeger-psych-sheet---corrected-_078156.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-abby-seeger-timeline_072151.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-abby-seeger-psych-sheet---corrected-_034595.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-rac-abby-seeger-meet-final-results-with-splits_060341.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-abby-seeger-memorial-invitational-16may2025-001_008675.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkup2025-abby-seeger-01_092636.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "NBAC Spring LC (LCM)",
+    "date_range": "Jun 1, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2025-nbac-spring-lc-invitational---final-results_027827.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-nbac-spring-lc-invitational-meet-16may2025-003_000201.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm7bkup2025-nbac-spring-lc-invitational-02_039494.zip",
+    "event_file_url": null,
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/final-nbac-spring-lc_051451.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/final-nbac-spring-lc_051451.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfOF2d-Ku2rdy6R87Pyw6Suo7GfNtDf-m8YH0J3bSuGCWlQOQ/closedform",
+        "file_type": "other"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2025-nbac-spring-lc-invitational---final-results_027827.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-nbac-spring-lc-invitational-meet-16may2025-003_000201.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm7bkup2025-nbac-spring-lc-invitational-02_039494.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "EST Speedo Sizzler (LCM)",
+    "date_range": "June 1, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-sizzle-results--final_068947.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-eagle-swim-team-speedo-sizzler-30may2025-001_099019.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2025-est-speedo-sizzler-invite-02_012838.zip",
+    "event_file_url": null,
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-speedo-sizzler-meet-notice-1-_043864.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-speedo-sizzler-meet-notice-1-_043864.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-sizzler-warm-up-assignments_030617.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/sizzler-final-timeline_022223.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/sizzler-psych-sheet_004654.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-sizzle-results--final_068947.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-eagle-swim-team-speedo-sizzler-30may2025-001_099019.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2025-est-speedo-sizzler-invite-02_012838.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "FSC Speedo Summer Spectacular (LCM)",
+    "date_range": "Jun 7-8, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-fox-june-lc-meet-results_049188.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-fox-speedo-summer-spectacular-31may2025-001_074980.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2025-fox-speedo-summer-spectacular-fairlands-05_001788.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-fox-speedo-summer-spectacular-31may2025-001_080602.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-fox-speedo-summer-spectacular-fairland_062843.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-fox-speedo-summer-spectacular-fairland_062843.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-fox-speedo-summer-spectacular-31may2025-001_080602.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdN5_2hH585GXbZ6VBT0B_xU4M9qX02GMQmqvfP5zkWftdUqQ/viewform?usp=dialog",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-speedo-spectacular-warm-ups_086140.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/spectacular-session-report_057712.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/spectacular-psych-sheet_030240.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-fox-june-lc-meet-results_049188.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-fox-speedo-summer-spectacular-31may2025-001_074980.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2025-fox-speedo-summer-spectacular-fairlands-05_001788.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "CAC Summer out of School Meet (LCM)",
+    "date_range": "Jun 21-22, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/results_074097.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-cac-schools-out-for-summer-13jun2025-001_068459.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkup2025-cac-schools-out-for-summer-lcm-swim-meet-07_029713.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-cac-schools-out-for-summer-13jun2025-002_008567.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-cac-long-course-swim-meet-june-13-15-2025-no-time-standards_070860.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-cac-long-course-swim-meet-june-13-15-2025-no-time-standards_070860.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-cac-schools-out-for-summer-13jun2025-002_008567.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSfn9Q_ThPe5j0-xog8a3NRGXifTmk-DYqOM5JMmwCD9XrMk_w/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/cac-schools-out-for-summer-lcm-meet-warm-ups_011049.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/cac-out-of-school-final-session-report_066906.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/cac-out-of-school-final-psych-sheet_067767.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/results_074097.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-cac-schools-out-for-summer-13jun2025-001_068459.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm8bkup2025-cac-schools-out-for-summer-lcm-swim-meet-07_029713.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "ASC Independence Meet (LCM)",
+    "date_range": "Jun 27-28, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2025-asc-independence-meet-results_009482.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-asc-independence-meet-21jun2025-001_061285.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm7bkup2025-asc-independence-meet-07_069412.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-2025-06-21-asc-independence-meet-event-file-ver-001_010949.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-asc-independence-meet-2-_009768.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-asc-independence-meet-2-_009768.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648150-2025-06-21-asc-independence-meet-event-file-ver-001_010949.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdEHNlFcLYTLfrI0KtLsGYXD0YU53qJVIsY_AbXiZ4IuLW3Nw/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648482-warmup-schedule---2025-independence-meet_049110.xlsx",
+        "file_type": "xlsx"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648684-timeline-2025-06-10_077487.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648679-2025-asc-independence-meet-psych-sheet_080833.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2025-asc-independence-meet-results_009482.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-asc-independence-meet-21jun2025-001_061285.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm7bkup2025-asc-independence-meet-07_069412.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "MBK/LBA Dual (LCM)",
+    "date_range": "Jul 10-13, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2025-mbk-lba-dual-results_031100.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-mbk-lba-long-course-dual-meet-28jun2025-001_032881.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2025-mbk-lba-long-course-dual-meet-15_088027.zip",
+    "event_file_url": null,
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-mbk-lba-long-course_023768.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-mbk-lba-long-course_023768.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2025-mbk-lba-dual-results_031100.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-mbk-lba-long-course-dual-meet-28jun2025-001_032881.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkup2025-mbk-lba-long-course-dual-meet-15_088027.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "NBAC Mid Summer Classic Site 1 (LCM)",
+    "date_range": "Jul 10-13, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2025-nbac-mid-summer-classic---final-results---pdf_085056.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-nbac-mid-summer-classic-10jul2025-001_081634.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm7bkup2025-nbac-mid-summer-classic-02_052378.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-nbac-mid-summer-classic-10jul2025-002_002517.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/final-nbac-july_000802.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/final-nbac-july_000802.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-nbac-mid-summer-classic-10jul2025-002_002517.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdKDmeCR4uBT8fLiUi9NqL0qgb2SN_497U0Ygjd9N9FKk7S4A/closedform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-nbac-mid-summer-classic---warmup-lane-assignments-_092284.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-nbac-mid-summer-classic---timeline_060047.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-nbac-mid-summer-classic---psych-sheet_096592.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2025-nbac-mid-summer-classic---final-results---pdf_085056.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-nbac-mid-summer-classic-10jul2025-001_081634.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm7bkup2025-nbac-mid-summer-classic-02_052378.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "RAC Sandbox Site 2 (LCM)",
+    "date_range": "Jul 18-20, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2025-rac-sandbox-final-results_091585.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-sandbox-invitational-10jul2025-001_009199.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkupsandbox-2025-13_015193.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-sandbox-invitational-10jul2025-002_057126.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-rac-sandbox-meet-announcement-2-_000440.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-rac-sandbox-meet-announcement-2-_000440.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-sandbox-invitational-10jul2025-002_057126.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSe4-vzbsoDm3zANPbMl7ZGhs7jsc6ephHy0jMbnhyxT54eq-Q/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/sandbox-warm-ups-2025_052349.xlsx",
+        "file_type": "xlsx"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-final-sandbox-timeline_075960.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-final-psych-sheet_005193.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648890-2025-rac-sandbox-final-results_091585.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648889-meet-results-2025-sandbox-invitational-10jul2025-001_009199.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/127648891-swmm8bkupsandbox-2025-13_015193.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "FSC LC Last Chance (LCM)",
+    "date_range": "Jul 25-27, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/lc-lc-full-meet-results_054672.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-md-long-course-last-chance-meet-18jul2025-001_095585.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2025-md-long-course-last-chance-meet-05_007425.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-md-long-course-last-chance-meet-18jul2025-002_042354.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-maryland-long-course-last-chance-meet_066378.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-maryland-long-course-last-chance-meet_066378.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-md-long-course-last-chance-meet-18jul2025-002_042354.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLScNRsC85TRqR9Sva5f8aFA7cmZcos04fZ2Aj7arG0Fzn2D4ew/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-lcm-last-chance-warm-up-1-_025587.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/lclc-session-report_028792.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-lcm-last-chance-psych-sheet_037676.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/lc-lc-full-meet-results_054672.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-md-long-course-last-chance-meet-18jul2025-001_095585.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2025-md-long-course-last-chance-meet-05_007425.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "FSC LC Junior Champs (LCM)",
+    "date_range": "Aug 2, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/lc-junior-results_004415.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-maryland-long-course-junior-championship-25jul2025-001_031342.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2025-maryland-long-course-junior-championships-05_010859.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-maryland-long-course-junior-championship-25jul2025-001_001800.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-maryland-state-long-course-junior-championship-meet-_056025.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-maryland-state-long-course-junior-championship-meet-_056025.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-maryland-long-course-junior-championship-25jul2025-001_001800.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdzYXah2RnnqQ2MW_bI8Wzx3cR3Q86fjczQdY1vdVPYWl-OPw/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-lcm-jr-champs-session-report_000251.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-lcm-jr-champs-psych-sheet_043368.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/lc-junior-results_004415.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-maryland-long-course-junior-championship-25jul2025-001_031342.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2025-maryland-long-course-junior-championships-05_010859.zip",
+        "file_type": "zip"
+      }
+    ]
+  },
+  {
+    "name": "MD LC Champs (LCM)",
+    "date_range": "Aug 2, 2025",
+    "season": "2024-2025",
+    "result_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-lc-champs-full-results_061113.pdf",
+    "result_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-md-lsc-lc-championships-30jul2025-001_068897.zip",
+    "backup_zip_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2025-md-lsc-lc-championships-03_086014.zip",
+    "event_file_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-md-lsc-lc-championships-30jul2025-001_061783.zip",
+    "meet_notice_pdf_url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-speedo-maryland-long-course-championship-meet_089736.pdf",
+    "all_files": [
+      {
+        "label": "generic_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-speedo-maryland-long-course-championship-meet_089736.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "event_file (File)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-events-2025-md-lsc-lc-championships-30jul2025-001_061783.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "signup (Signup)",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLScxdgSORkjugibFxS2B9n6qXZ8klWc5x--6jvk1iHA9nPrAnA/viewform",
+        "file_type": "other"
+      },
+      {
+        "label": "warmup (Warmup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025mdlsclcchampionshipswarmupassignments_015777.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "timeline (Timeline)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-lc-champs-timelines_050291.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "psych_sheet (Psych Sheet)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-lc-champs-psych-sheet_033783.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_pdf (PDF)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/2025-lc-champs-full-results_061113.pdf",
+        "file_type": "pdf"
+      },
+      {
+        "label": "result_zip (ZIP)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/meet-results-2025-md-lsc-lc-championships-30jul2025-001_068897.zip",
+        "file_type": "zip"
+      },
+      {
+        "label": "backup_zip (Backup)",
+        "url": "https://www.gomotionapp.com/md/UserFiles/Image/QuickUpload/swmm7bkup2025-md-lsc-lc-championships-03_086014.zip",
+        "file_type": "zip"
+      }
+    ]
+  }
+]

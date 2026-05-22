@@ -1,0 +1,14 @@
+# Swimming Data Bank - Dependencies
+# Phase 1: Scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Phase 2: Parsing
+hytek-parser>=1.2.0
+pydantic>=2.0.0
+
+# Phase 3: Backend
+supabase>=2.4.0
+python-dotenv>=1.0.0
+# fastapi>=0.110.0
+# uvicorn>=0.27.0
