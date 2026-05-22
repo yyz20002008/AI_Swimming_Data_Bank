@@ -2,8 +2,8 @@ name: Weekly Swimming Data Ingestion
 
 on:
   schedule:
-    # Run every Monday at 02:00 AM UTC (Sunday 10:00 PM EST)
-    - cron: '0 2 * * 1'
+    # Run every Tuesday at 06:00 AM UTC (Tuesday 02:00 AM EST)
+    - cron: '0 6 * * 2'
   workflow_dispatch:
     # Allow manual triggering from the GitHub Actions UI
     inputs:
